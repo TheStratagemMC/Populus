@@ -1,0 +1,13 @@
+name: Populus
+author: _aksel
+version: 1.0
+main: com.thestratagemmc.populus.Populus
+depend: [SimpleClans,Essentials,WorldEdit]
+commands:
+  clanchat:
+    aliases: [cc,c,cchat]
+  cclan:
+  cstronghold:
+  cbal:
+  csetbal:
+  cforce:
